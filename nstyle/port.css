@@ -20,10 +20,14 @@
     color: #FD6E0A;
 }
 
+.contact-icon {
+    display: flex;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 nav ul {
@@ -46,6 +50,11 @@ nav li {
     font-size: 20px;
     border: 0;
     padding: 18px 35px;
+}
+
+.phone {
+    text-align: center;
+    margin-top: 5px;
 }
 
 .banner {
@@ -123,9 +132,7 @@ section {
 }
 
 /* what I do styles */
-.what-i-do {
-    margin-top: 130px;
-}
+
 
 .skill {
     background: #FFFFFF;
@@ -195,6 +202,7 @@ section {
     gap: 100px;
     background: #FFF8F3;
     padding: 130px 200px;
+
 }
 
 .cotact a {
@@ -216,4 +224,9 @@ textarea {
 
 input {
     height: 64px;
+}
+
+footer p {
+    text-align: center;
+    color: #FD6E0A;
 }
