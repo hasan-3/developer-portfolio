@@ -53,7 +53,6 @@ nav li {
 }
 
 .phone {
-    text-align: center;
     margin-top: 5px;
 }
 
@@ -176,7 +175,7 @@ section {
     color: #474747;
 
 }
-}
+
 
 .resume.sub-title {
     color: #757575;
@@ -184,7 +183,7 @@ section {
     font-size: 20px;
 
 }
-}
+
 
 .resume.description {
     color: #757575;
